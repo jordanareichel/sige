@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/core/vendor/mercadopago/dx-php" />
+      <path value="$PROJECT_DIR$/core/vendor/composer" />
+      <path value="$PROJECT_DIR$/core/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/core/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/core/vendor/katzgrau/klogger" />
+      <path value="$PROJECT_DIR$/core/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/core/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/core/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/core/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/core/vendor/doctrine/common" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>

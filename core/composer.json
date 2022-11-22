@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mercadopago/dx-php": "2.4.9",
+        "katzgrau/klogger": "dev-master",
+        "mpdf/mpdf": "^6.1"
+    }
+}

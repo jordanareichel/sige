@@ -1,0 +1,1345 @@
+[2022-11-14 9:08:54.259454] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:08:54.266796] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:08:54.272491] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:08:55.350615] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:08:55.357978] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:08:55.361743] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:08:56.357093] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:08:56.384752] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:08:56.389892] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:08:57.347058] [info] SELECT * FROM estoque WHERE id = 5
+[2022-11-14 9:08:57.361968] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:08:57.365940] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:08:59.783559] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:08:59.790168] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:08:59.794044] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:09:00.997905] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:09:01.002931] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:09:01.009346] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:16:05.324634] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:16:05.355230] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:16:08.874777] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:16:08.902705] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:16:08.906459] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:19:22.293297] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:19:22.321444] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:19:22.326685] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:19:23.703691] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:19:23.713457] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:19:23.717052] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:21:44.921924] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:21:44.929435] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:21:44.933259] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:21:51.585231] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:21:51.599935] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:21:51.603591] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:21:52.574326] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:21:52.580715] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:21:52.584844] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:21:56.679378] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:21:56.707403] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:21:56.713150] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:22:21.064104] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:22:21.084044] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:22:21.087390] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:32:56.893225] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:32:56.944715] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:32:57.737040] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:33:01.794428] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:33:01.805226] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 9:33:01.809439] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 9:49:57.596940] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:49:57.601900] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 9:50:52.192253] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:50:52.197995] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 9:51:31.037489] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0
+[2022-11-14 9:51:31.041677] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 9:52:31.627696] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0
+[2022-11-14 9:52:31.634696] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 9:54:06.195172] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:56:34.577637] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:57:38.936786] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:57:55.347837] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:58:16.480040] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:58:30.272870] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:58:37.503607] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:58:58.235637] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:59:10.168642] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 9:59:48.333748] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:00:17.310097] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:00:31.410029] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:01:26.214184] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:02:57.963316] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:04:38.044224] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:05:09.206876] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:05:59.035271] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:06:15.497359] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:06:21.135149] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:06:32.252944] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:07:12.377470] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:08:12.235584] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:08:31.415275] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:08:45.851134] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:09:24.417584] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:10:08.115403] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:10:38.957710] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:10:39.076133] [info] SELECT * FROM produtos WHERE id = 
+[2022-11-14 10:10:47.793256] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:10:47.964293] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:10:59.069067] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:10:59.224798] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:11:08.505661] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:11:08.511713] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:08.518862] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:11:09.489075] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:11:09.509618] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:09.513829] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:11:11.259145] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:11.274837] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:11:15.760827] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:11:15.768691] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:19.774039] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:25.474992] [info] SELECT * FROM produtos WHERE codigo = '1522'
+[2022-11-14 10:11:25.488437] [info] INSERT INTO produtos (nome,codigo,status) VALUES ('Mesa', '1522', '1')
+[2022-11-14 10:11:25.518615] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:11:25.524673] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:27.245734] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:33.475982] [info] SELECT * FROM produtos WHERE codigo = '1523'
+[2022-11-14 10:11:37.146604] [info] SELECT * FROM produtos WHERE codigo = '1524'
+[2022-11-14 10:11:37.151406] [info] INSERT INTO produtos (nome,codigo,status) VALUES ('Cadeira', '1524', '1')
+[2022-11-14 10:11:37.193624] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:11:37.201019] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:42.447499] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:11:42.477404] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:42.480983] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:11:44.036179] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:44.041982] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:11:54.871049] [info] SELECT * FROM produtos WHERE codigo = '1514'
+[2022-11-14 10:11:54.886661] [info] INSERT INTO estoque (produto,quantidade,localizacao,data_entrada,codigo,status) VALUES ('6', '10', 'Prateleira C', '2022-11-14 10:11:54', '1514', '1')
+[2022-11-14 10:11:54.940536] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:11:54.946585] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:54.952138] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:11:54.957190] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 10:11:56.404236] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:11:56.409544] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:12:05.953871] [info] SELECT * FROM produtos WHERE codigo = '1525'
+[2022-11-14 10:12:05.966991] [info] INSERT INTO estoque (produto,quantidade,localizacao,data_entrada,codigo,status) VALUES ('5', '1', 'Prateleira A', '2022-11-14 10:12:05', '1525', '1')
+[2022-11-14 10:12:06.015288] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:12:06.022281] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:12:06.027323] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:12:06.034082] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 10:12:06.038661] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 10:16:37.847495] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:16:38.002955] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:16:38.007383] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:16:38.011508] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:17:04.211216] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:17:04.323729] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:17:04.327343] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:17:04.350600] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:17:29.230389] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:17:29.334630] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:17:29.356554] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:17:29.360560] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:17:46.796271] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:17:46.913094] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:17:46.935178] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:17:46.951203] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:19:34.960773] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:19:34.966651] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:19:35.075222] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:19:35.099807] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:19:35.115879] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:19:56.045363] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:19:56.050587] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:19:56.170599] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:19:56.186589] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:19:56.202377] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:20:02.510353] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:20:02.518008] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:20:02.641554] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:20:02.644433] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:20:02.665968] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:20:08.777095] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:20:08.785597] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:20:08.919683] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:20:08.932645] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:20:08.948627] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:21:02.098961] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:21:02.119724] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:21:02.234594] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:21:02.238076] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:21:02.241537] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:21:18.555632] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:21:18.584846] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:21:18.701112] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:21:18.725325] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:21:18.741247] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:21:52.136445] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:21:52.140621] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:21:52.339644] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:21:52.343202] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:21:52.346776] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:22:16.244862] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:22:16.248208] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:22:16.402493] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:22:16.405592] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:22:16.433237] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:22:22.115262] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:22:22.120898] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:22:22.295535] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 10:22:22.299364] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 10:22:22.304183] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 10:22:42.954771] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:22:42.970345] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:22:42.973889] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:22:42.979322] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 10:22:42.983589] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 10:22:44.006546] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 10:22:44.021564] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:22:44.025639] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 10:22:44.030713] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 10:22:44.035672] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 10:22:59.089296] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:22:59.120258] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:25:51.963942] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:25:51.970115] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:25:57.331444] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:25:57.355055] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:25:58.810609] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:25:58.825597] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:26:04.479882] [info] SELECT * FROM produtos WHERE id = 4
+[2022-11-14 10:26:04.495290] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:26:10.733699] [info] SELECT * FROM produtos WHERE id = 4
+[2022-11-14 10:26:10.737330] [info] UPDATE produtos SET nome='Produto Teste',status='1' WHERE id='4'
+[2022-11-14 10:26:10.777319] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:26:10.783276] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:36.493558] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:34:36.500255] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:39.603981] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 10:34:39.608967] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:46.426023] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:34:46.454842] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:47.695175] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:34:47.709753] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:50.474245] [info] SELECT * FROM produtos WHERE id = 4
+[2022-11-14 10:34:50.487143] [info] UPDATE produtos SET status='2' WHERE id='4'
+[2022-11-14 10:34:50.520073] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:34:50.527101] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:34:58.550681] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 10:34:58.579323] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:01.842911] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:01.858519] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:02.568145] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:02.582951] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:05.309583] [info] SELECT * FROM produtos WHERE id = 4
+[2022-11-14 10:35:05.313116] [info] UPDATE produtos SET status='1' WHERE id='4'
+[2022-11-14 10:35:05.345508] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:05.350007] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:14.515399] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  AND (nome like '%Cade%' OR codigo like '%Cade%') ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:14.545121] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:17.059973] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:17.075459] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:21.046799] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  AND (nome like '%Cade%' OR codigo like '%Cade%') ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:21.069444] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:22.012520] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:22.027419] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:26.211580] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:26.216916] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:26.220618] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:30.985903] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:31.009778] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:31.013465] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:35:36.244226] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:35:36.273049] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:36:39.620012] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:36:39.645010] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:43:44.960597] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:43:44.966461] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:43:46.012757] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 10:43:46.016678] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:45:19.072427] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:45:19.078377] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:45:20.487078] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:46:40.482280] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:46:40.512732] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:46:41.600694] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:46:41.615246] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:46:43.085952] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 10:46:43.100142] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:46:57.387509] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 10:46:57.390621] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:04.335820] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 10:47:04.350482] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:05.550939] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 10:47:05.564927] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:05.568577] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:06.372567] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 10:47:06.387036] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:06.390700] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:07.209781] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:07.251660] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:47:08.781879] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:01.823230] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:34.806304] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:35.668598] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:49.410959] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:52.844321] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:49:56.344084] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:50:05.065891] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:50:27.229530] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:51:30.615624] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:51:45.484112] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:51:55.216079] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:52:18.057431] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:52:27.713108] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:52:34.276679] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:52:38.967039] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:53:20.748306] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:53:26.181463] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 10:53:34.748460] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:13:21.462327] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:13:46.819767] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:13:52.147264] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:14:21.752028] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:14:28.668831] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:14:47.227164] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:15:00.161751] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:15:07.535316] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:15:23.045510] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:16:03.765969] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:16:42.745145] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:17:09.507457] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:18:03.721748] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:18:42.625674] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:18:47.705487] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:18:56.344631] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:19:02.430428] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:19:24.992002] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:19:52.865545] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:20:56.780288] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:22:38.855916] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:23:22.684057] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:24:42.123812] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:24:55.700066] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:11.202986] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:12.522896] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:25:12.529396] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:38.785778] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:25:38.791739] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:43.631906] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:48.071244] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:25:48.084990] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:49.616010] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:25:49.643906] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:26:13.988641] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:26:13.994124] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:26:19.576730] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:26:19.590776] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:12.178534] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:27:12.185374] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:13.839860] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:13.868995] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:18.592327] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:46.820079] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:48.803227] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:27:48.829071] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:50.708013] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:50.724761] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:52.405572] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:27:52.410491] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:54.570290] [info] SELECT * FROM usuarios WHERE id = 4
+[2022-11-14 11:27:54.597640] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:27:58.347872] [info] SELECT * FROM usuarios WHERE id = 4
+[2022-11-14 11:27:58.362818] [info] UPDATE usuarios SET nome='Jordana Vaz Reichel Teste',email='danarei@outlook.com',status='1',regra='1',sexo='2' WHERE id='4'
+[2022-11-14 11:27:58.409768] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:27:58.414130] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:02.621548] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  AND (nome like '%Jordana%' OR email like '%Jordana%') ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:02.626719] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:04.338273] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:04.366488] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:05.871474] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:07.462843] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:07.477582] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:09.670104] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:10.910413] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:10.915277] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:13.812813] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:15.480412] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:15.488006] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:38.874842] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:38.882118] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:42.423907] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 11:28:42.429157] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:28:47.089164] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 11:28:47.115262] [info] UPDATE produtos SET nome='Cadeira Editada',status='1' WHERE id='6'
+[2022-11-14 11:28:47.163729] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:28:47.178242] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:29:46.440591] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:29:46.468838] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:29:47.811058] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 11:29:47.824887] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:29:50.175925] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 11:29:50.189795] [info] UPDATE produtos SET nome='Cadeira ',status='1' WHERE id='6'
+[2022-11-14 11:29:50.464227] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:29:50.470632] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:30:26.904053] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:30:26.930922] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:30:33.060086] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:30:33.065496] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:30:36.025475] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:31:38.747421] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:32:40.754298] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:32:40.763837] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:32:40.769445] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:32:40.773336] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:32:40.778088] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:32:41.965619] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:32:41.988909] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:32:41.994720] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:32:42.021097] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:32:42.025991] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:33:08.014113] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:33:08.040806] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:33:08.046884] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:33:08.050596] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:33:08.054619] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:33:13.356017] [info] SELECT * FROM estoque WHERE id = 5
+[2022-11-14 11:33:13.361107] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:33:13.365166] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:33:17.373183] [info] SELECT * FROM estoque WHERE id = 5
+[2022-11-14 11:33:17.377590] [info] UPDATE estoque SET produto='2',quantidade='15',localizacao='Teste',status='1',data_atualizacao='2022-11-14 11:33:13',data_entrada='2022-11-13' WHERE id='5'
+[2022-11-14 11:33:17.427998] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:33:17.434423] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:33:17.438363] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:33:17.444816] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:33:17.453943] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:33:54.614373] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:33:54.619672] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:33:54.623547] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:33:54.632630] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:33:54.636945] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:34:43.584618] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:34:43.589612] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:34:58.705024] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:34:58.718439] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:35:03.769360] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:35:03.775032] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:35:23.766663] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:35:23.772078] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:35:25.944763] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:35:25.951142] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:35:25.955065] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:35:25.960087] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:35:25.966022] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:35:26.852576] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:35:26.867100] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:35:26.870415] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:35:26.874937] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:35:26.899696] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:37:31.972348] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:37:31.994939] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:37:32.011674] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:37:32.015389] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:37:32.023421] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:37:34.298805] [info] SELECT * FROM estoque WHERE id = 5
+[2022-11-14 11:37:34.305542] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:37:34.309248] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:37:36.456247] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:37:36.462201] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:37:36.466059] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:37:36.472065] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:37:36.476639] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:37:37.610419] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:04.381705] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:05.211838] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:38:05.226583] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:06.845360] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:08.603419] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:38:08.617336] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:09.913784] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:10.480870] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:38:10.486269] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:10.490459] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 11:38:10.494448] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 11:38:10.498264] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 11:38:11.545926] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:38:14.111494] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:21.824886] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:23.280663] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:24.466572] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:24.496205] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:40.218817] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:41.846169] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:40:41.877105] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:41:10.615617] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:41:11.559935] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:41:26.435139] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:41:44.211941] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:42:09.846398] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:42:15.946120] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:42:24.207698] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:42:29.433942] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:42:38.468450] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:43:07.594497] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:43:18.406269] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:43:26.340950] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:43:31.243200] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:44:27.224172] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:44:28.174647] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:44:28.179938] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:44:28.183940] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:45:36.090241] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:45:36.108135] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:45:36.122968] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:45:52.988534] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:45:53.014888] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:45:53.022238] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:30.958189] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:31.965578] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:46:31.972937] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:31.976972] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:33.376606] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:33.407810] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:36.528177] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 11:46:36.543035] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:38.578186] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:39.132384] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:42.890054] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:46:42.903808] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:46:42.907761] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:26.388933] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:50:26.396132] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:26.399874] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:52.618362] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:50:52.623334] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:52.631639] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:53.827852] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:50:53.855864] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:53.861618] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:54.737792] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 11:50:54.751662] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:50:54.902359] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:51:17.931809] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 11:51:17.935605] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:51:18.091784] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:11.888766] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:52:11.917020] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:11.920913] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:12.820031] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:52:12.847830] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:12.851187] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:13.791198] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:16.656805] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 11:52:16.663501] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:16.666583] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:16.670779] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 11:52:19.481149] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:19.507338] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:22.661000] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:23.994689] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:26.558284] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:52:26.564399] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:26.568247] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:28.484401] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:30.063802] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:52:30.092660] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:30.096426] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:52:59.988434] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 11:53:00.002886] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 11:53:00.006238] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:33:21.039231] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:33:21.068516] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:33:21.072093] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:34:07.520421] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:34:07.525443] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:34:07.528733] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:34:08.598889] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:34:08.604212] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:34:08.609363] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:16.450781] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:37:16.460911] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:16.464582] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:17.228703] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:37:17.256993] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:17.261127] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:17.830162] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:37:17.855257] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:17.860785] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:48.184093] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:37:48.189392] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:48.201369] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:49.036391] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:37:49.049449] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:37:49.053225] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:22.688841] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:22.697283] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:22.700675] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:24.166676] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:24.183389] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:24.186311] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:24.564905] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:24.593349] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:24.597942] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:27.125682] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:27.132112] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:27.135373] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:27.818243] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:28.926619] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:28.932866] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:28.936352] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:31.430845] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:31.435945] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:31.440397] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:33.395504] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:33.400418] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:33.404892] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:34.150620] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:34.214612] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:37.001418] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:37.821574] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:37.826715] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:37.832382] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:39.295804] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 12:39:39.310750] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:40.232971] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:42.858654] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:42.864171] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:42.867603] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:45.006915] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:46.105742] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:39:46.135039] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:46.138809] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:46.143151] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:39:47.403899] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:47.434429] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:48.717430] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:50.032435] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:39:50.059796] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:39:50.065453] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:48.593286] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:40:48.601543] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:48.605400] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:49.559940] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 12:40:49.568012] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:49.725483] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:56.414127] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:40:56.419280] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:56.424515] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:58.210349] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:40:58.217307] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:58.222163] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:59.621474] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:40:59.667197] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:07.207133] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:08.900954] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:11.500291] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:41:11.505673] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:11.509093] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:11.514393] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:41:51.652724] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:41:51.679008] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:51.684859] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:51.689438] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:41:59.127595] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:41:59.136512] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:59.141258] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:41:59.147036] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:42:04.073596] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:42:04.078664] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:42:04.086496] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:42:04.090610] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:42:30.795231] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:42:30.802237] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:42:30.805727] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:42:30.809562] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:42:31.463027] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:42:57.062659] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:20.040519] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:31.953103] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:36.695177] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:46.166085] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:56.056999] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:43:57.510159] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:03.864008] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:05.163405] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:44:05.177644] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:05.181041] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:05.185687] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:44:07.547780] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:08.333359] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:44:08.338037] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:08.341752] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:09.210231] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:10.073630] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:44:10.099008] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:10.108525] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:11.160362] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:12.006077] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:44:12.010390] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:12.014359] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:44:12.018963] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:47:03.247773] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:47:03.274836] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:47:03.279712] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:47:03.283049] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:47:04.229553] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0 ORDER BY status ASC, produto ASC
+[2022-11-14 12:47:04.233104] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:47:04.447767] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:47:04.451169] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:05.988852] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0 ORDER BY status ASC, produto ASC
+[2022-11-14 12:48:05.995557] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:06.171194] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:48:06.173953] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:16.101002] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0 ORDER BY status ASC, produto ASC
+[2022-11-14 12:48:16.105129] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:16.302002] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:48:16.306129] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:57.552818] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0 ORDER BY status ASC, produto ASC
+[2022-11-14 12:48:57.566478] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:57.682665] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:48:57.685764] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:59.463200] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:48:59.491169] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:59.496488] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:48:59.502027] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:49:00.469918] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:49:00.474359] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:49:00.480091] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:49:00.484581] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:49:41.959817] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:49:43.652354] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:49:44.654733] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:49:44.683828] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:49:45.909353] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:50:06.378356] [info] SELECT * FROM usuarios WHERE email = 'jordanareichel@gmail.com'
+[2022-11-14 12:50:06.382327] [info] INSERT INTO usuarios (nome,email,telefone,senha,status,regra,sexo) VALUES ('Jordana Teste não adm', 'jordanareichel@gmail.com', '(51) 99562-3481', 'ec7117851c0e5dbaad4effdb7cd17c050cea88cb', '1', '2', '2')
+[2022-11-14 12:50:06.417221] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:50:06.423728] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:50:28.960794] [info] SELECT * FROM usuarios WHERE email = 'jordanareichel@gmail.com'
+[2022-11-14 12:50:29.007608] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:29.056035] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:31.147241] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:50:31.157149] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:31.191086] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:33.148603] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:50:33.186069] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:33.189969] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 12:50:33.194009] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 12:50:33.199589] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 12:50:34.915846] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:36.051223] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:50:36.056469] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:38.564644] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:47.796957] [info] SELECT * FROM produtos WHERE codigo = '1414'
+[2022-11-14 12:50:47.801090] [info] INSERT INTO produtos (nome,codigo,status) VALUES ('Teclado', '1414', '1')
+[2022-11-14 12:50:47.847341] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:50:47.854630] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:51.176675] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY nome ASC, nome ASC
+[2022-11-14 12:50:51.180046] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:58.287508] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:50:58.305496] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:50:59.885057] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:01.750313] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:01.763252] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:04.008199] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 12:51:04.022075] [info] UPDATE produtos SET status='2' WHERE id='7'
+[2022-11-14 12:51:04.042954] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:04.047384] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:07.392493] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 12:51:07.395719] [info] UPDATE produtos SET deletado='1',status='2',data_exclusao='2022-11-14 12:51:07',usuario_responsavel='5' WHERE id='7'
+[2022-11-14 12:51:07.414902] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:07.421283] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:10.316118] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:11.079920] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:12.205940] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:12.235205] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:12.238580] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:51:12.243009] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:15.770908] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 12:51:15.785379] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:15.906239] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:51:15.926543] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:19.007385] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:19.034504] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:19.038166] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:51:19.043428] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:20.708314] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:24.090739] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:51:24.118525] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:51:24.121603] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:51:31.396730] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:07.010001] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:07.755467] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:07.784596] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:07.788024] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:07.836477] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:08.958206] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:18.123128] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:18.127990] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:18.131361] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:18.140294] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:21.229314] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:22.457313] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 12:52:22.462775] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:22.467253] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:22.474705] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 12:52:24.346347] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:26.141377] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:26.155635] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:26.159610] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:26.163443] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:33.471291] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 12:52:33.500538] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:36.273422] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:36.287530] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:36.290823] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:36.295748] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:54.910581] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:54.928347] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:54.931951] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:52:54.940069] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:52:59.037100] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 12:52:59.049437] [info] UPDATE produtos SET status='1' WHERE id='1'
+[2022-11-14 12:52:59.082442] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:52:59.088742] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:08.403283] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:53:08.432868] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:10.145347] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:11.508766] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:12.520256] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:53:12.524920] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:12.528611] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:53:12.533339] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:15.258203] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:53:15.272520] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:15.276319] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:53:15.280735] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:53:31.709249] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 12:53:31.723989] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:13.760001] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:56:13.786457] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:13.790119] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:56:13.795233] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:14.446810] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:56:14.462534] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:14.465846] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:56:14.470640] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:17.211513] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 12:56:17.241815] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:18.892993] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 12:56:18.921998] [info] UPDATE produtos SET nome='Produto Teste',status='2',data_atualizacao='2022-11-14 12:56:17' WHERE id='1'
+[2022-11-14 12:56:19.295099] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:56:19.303416] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:24.472742] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:25.654614] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:26.583030] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:56:26.611376] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:26.615812] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:56:26.621644] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:47.012532] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:56:47.017849] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:56:47.022322] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:56:47.030564] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:57:21.330741] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:57:21.345237] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:57:21.349421] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:57:21.354125] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:07.083677] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:58:07.097816] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:07.100975] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 12:58:07.104239] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:22.452409] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 12:58:22.458687] [info] UPDATE produtos SET status='1' WHERE id='7'
+[2022-11-14 12:58:22.504132] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 12:58:22.513453] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:25.821101] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:26.920260] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:28.142393] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 12:58:28.170927] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:28.174525] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 12:58:28.182236] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:01:34.528573] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:01:50.143373] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:01:51.313865] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:01:51.320225] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:01:51.323185] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:01:51.326982] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:27.440850] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:27.469932] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:27.474329] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:27.479753] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:38.107733] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:38.121620] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:38.124752] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:38.129487] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:40.141195] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:40.146390] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:40.150378] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:40.157049] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:42.664803] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:42.670862] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:42.674809] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:42.678602] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:44.264746] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:44.269035] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:44.273694] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:44.277124] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:02:45.190109] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:02:45.218738] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:45.223546] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:02:45.226841] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:03:14.326584] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:03:14.331567] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:03:14.335215] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:03:14.341749] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:03:15.755584] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 13:03:15.758788] [info] UPDATE produtos SET deletado='1',status='1',data_atualizacao='2022-11-14 13:03:15',usuario_responsavel='5' WHERE id='1'
+[2022-11-14 13:03:15.781167] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:03:15.811728] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:03:15.815684] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:03:15.819345] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:27.129200] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:04:27.157762] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:27.161514] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:27.166356] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:28.459594] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 13:04:28.479840] [info] UPDATE produtos SET deletado='2',status='1',data_atualizacao='2022-11-14 13:04:28',usuario_responsavel='5' WHERE id='1'
+[2022-11-14 13:04:28.512923] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:04:28.541636] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:28.545389] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:28.549983] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:29.933734] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 13:04:29.948091] [info] UPDATE produtos SET deletado='2',status='1',data_atualizacao='2022-11-14 13:04:29',usuario_responsavel='5' WHERE id='7'
+[2022-11-14 13:04:29.981328] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:04:29.985836] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:29.990967] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:04:29.995357] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:07:58.316948] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:07:58.346317] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:07:58.351351] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:07:58.355953] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:00.053982] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 13:08:00.068589] [info] UPDATE produtos SET deletado='2',status='1',data_atualizacao='2022-11-14 13:08:00',usuario_responsavel='5' WHERE id='7'
+[2022-11-14 13:08:00.086807] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:08:00.100585] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:00.104638] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:00.110090] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:01.518168] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 13:08:01.521472] [info] UPDATE produtos SET deletado='2',status='1',data_atualizacao='2022-11-14 13:08:01',usuario_responsavel='5' WHERE id='1'
+[2022-11-14 13:08:01.539010] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:08:01.564095] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:01.568686] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:01.573313] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:25.682066] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 13:08:25.695816] [info] UPDATE produtos SET deletado='2',status='1',data_atualizacao='2022-11-14 13:08:25',usuario_responsavel='5' WHERE id='7'
+[2022-11-14 13:08:25.729577] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:08:25.757805] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:25.761032] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:08:25.765786] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:17.970582] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:17.993026] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:17.996731] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:18.001591] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:19.252779] [info] SELECT * FROM produtos WHERE id = 7
+[2022-11-14 13:10:19.256073] [info] UPDATE produtos SET deletado='0',status='1',data_atualizacao='2022-11-14 13:10:19',usuario_responsavel='5' WHERE id='7'
+[2022-11-14 13:10:19.285711] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:19.291604] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:19.295769] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:20.977211] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:20.982017] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:20.986402] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:30.004812] [info] SELECT * FROM produtos WHERE id = 1
+[2022-11-14 13:10:30.017327] [info] UPDATE produtos SET deletado='0',status='1',data_atualizacao='2022-11-14 13:10:30',usuario_responsavel='5' WHERE id='1'
+[2022-11-14 13:10:30.051214] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:30.064694] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:31.274480] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:32.502424] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:33.333276] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:33.347093] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:34.447650] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:35.486912] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:36.902126] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:36.915498] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:40.953336] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 13:10:40.967991] [info] UPDATE produtos SET status='2' WHERE id='6'
+[2022-11-14 13:10:41.002909] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:41.007046] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:42.837579] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 13:10:42.852406] [info] UPDATE produtos SET deletado='1',status='2',data_exclusao='2022-11-14 13:10:42',usuario_responsavel='5' WHERE id='6'
+[2022-11-14 13:10:42.870897] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:42.885832] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:45.659029] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:47.747648] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:47.778170] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:49.373210] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:49.958600] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:51.275309] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:51.279799] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:51.284816] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:55.647358] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0 ORDER BY nome ASC, nome ASC
+[2022-11-14 13:10:55.652478] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:55.779314] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:58.587654] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:10:58.591953] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:10:58.595732] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:21.177426] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:22.271156] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:11:22.300018] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:22.303515] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:22.348443] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:23.562172] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:24.328489] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:11:24.342427] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:24.345637] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:24.375314] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:11:36.080516] [info] SELECT * FROM usuarios WHERE email = 'admin@admin.com'
+[2022-11-14 13:11:36.133297] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:36.165796] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:37.305205] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:38.357263] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:11:38.362289] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:11:38.366225] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:12:18.483273] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:12:18.492192] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:12:18.496324] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:08.341733] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:13:08.347330] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:08.350662] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:09.561094] [info] SELECT * FROM produtos WHERE id = 
+[2022-11-14 13:13:09.582659] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:13:09.607979] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:09.611839] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:13:34.710616] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:13:34.724802] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:34.730082] [info] SELECT * FROM usuarios WHERE id = 5
+[2022-11-14 13:13:35.978612] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 13:13:35.993427] [info] UPDATE produtos SET deletado='0',status='1',data_atualizacao='2022-11-14 13:13:35',usuario_responsavel='1' WHERE id='6'
+[2022-11-14 13:13:36.012536] [info] SELECT * FROM produtos WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:13:36.017133] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:38.075501] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:39.566734] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:13:40.611702] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:13:40.641788] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:28.150253] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:29.154913] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:29.911731] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:14:29.917148] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:29.924849] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:29.930692] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:14:31.296366] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:14:31.300781] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:31.304368] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:31.312134] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:14:38.996716] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:14:39.010989] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:39.014374] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:14:39.018873] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:29:46.119087] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:29:46.138128] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:29:46.141661] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:29:46.146380] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:34:36.549803] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:36.555783] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:36.561177] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:36.564547] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:34:37.900851] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:37.915086] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:37.918498] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:37.922018] [info] SELECT * FROM produtos WHERE id = 3
+[2022-11-14 13:34:39.500344] [info] SELECT * FROM estoque WHERE id = 6
+[2022-11-14 13:34:39.515125] [info] UPDATE estoque SET deletado='0',status='1',data_atualizacao='2022-11-14 13:34:39',usuario_responsavel='1' WHERE id='6'
+[2022-11-14 13:34:39.534220] [info] SELECT * FROM estoque WHERE id > 0 AND deletado > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:39.562660] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:41.363573] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:43.116514] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:45.292540] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:45.301646] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:45.305001] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:34:45.311312] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:34:45.318444] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:34:48.787882] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0 ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:48.802081] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:48.940018] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 13:34:48.944219] [info] SELECT * FROM produtos WHERE id = 5
+[2022-11-14 13:34:48.962300] [info] SELECT * FROM produtos WHERE id = 6
+[2022-11-14 13:34:57.380814] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:34:57.406105] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:57.411765] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:34:57.416086] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:34:57.419574] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:34:58.523734] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:59.276316] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:34:59.613836] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:36:20.850162] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:36:20.864816] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:36:20.868680] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:36:20.873411] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:36:20.877311] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:36:24.075084] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:36:24.081460] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:36:24.085047] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:36:24.089916] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:36:24.093733] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:36:28.107548] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:36:28.122241] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:36:28.125552] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:36:28.130729] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:36:28.134519] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:37:01.867423] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:01.894807] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:37:01.901217] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:37:01.904958] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:37:01.908875] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:37:30.825510] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%%' OR codigo like '%%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:32.235208] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%%' OR codigo like '%%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:33.308437] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%%' OR codigo like '%%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:34.411434] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:34.417742] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:37:34.424915] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:37:34.430198] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:37:34.435343] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:37:35.551556] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:37:35.566158] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:37:35.570368] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:37:35.574208] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:37:35.577980] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:37:38.142946] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%%' OR codigo like '%%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:38:46.782790] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%1%' OR codigo like '%1%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:38:47.587515] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:38:47.592655] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:38:47.596282] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:38:47.601346] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:38:47.604940] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:38:48.387309] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:38:48.416723] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:38:48.420478] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:38:48.424930] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:38:48.428747] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:38:50.480771] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (nome like '%JORDANA VAZ REICHEL%' OR codigo like '%JORDANA VAZ REICHEL%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:20.593770] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:20.599315] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:39:20.605783] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:39:20.609117] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:39:20.612406] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:39:21.589705] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:21.594968] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:39:21.598284] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:39:21.605283] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:39:21.609589] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:39:23.093204] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (produto like '%1%' OR codigo like '%1%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:23.098020] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:39:23.103437] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:39:23.108771] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:39:23.112740] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:39:26.077722] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (produto like '%1514%' OR codigo like '%1514%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:26.091675] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:39:26.095091] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:39:27.762193] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:27.776983] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:39:27.780421] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:39:27.785145] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:39:27.789494] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:39:31.131208] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (produto like '%Com%' OR codigo like '%Com%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:39:31.160322] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:03.073323] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:40:03.086999] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:03.090610] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:40:03.095705] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:40:03.099742] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:40:03.911221] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:40:03.926270] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:03.930300] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:40:03.935548] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:40:03.940342] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:40:07.125860] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  AND (codigo like '%1522%') ORDER BY status ASC, produto ASC
+[2022-11-14 13:40:07.140664] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:07.144409] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:40:09.221585] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:40:09.242470] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:09.246176] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:40:09.250631] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:40:09.254926] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:40:36.391113] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:40:36.405747] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:40:36.409418] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:40:36.413791] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:40:36.418262] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:41:28.492671] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:41:46.562302] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:41:48.046103] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:41:59.029409] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:02.663672] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado > 0  ORDER BY status ASC, nome ASC
+[2022-11-14 13:42:02.689508] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:02.694982] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:05.848503] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:07.629899] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:08.543370] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:42:08.549410] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:12.749824] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:13.573075] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:42:13.588926] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:42:52.821744] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:42:52.828064] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:43:35.397906] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:43:35.425678] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:43:48.455332] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:43:48.463424] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:43:57.948115] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:43:57.977485] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:44:05.939796] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:44:05.946949] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:44:33.730345] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:44:33.735477] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:45:01.508868] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:45:01.515818] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:45:14.837846] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:45:14.842488] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:45:22.007704] [info] SELECT * FROM produtos WHERE id = 4
+[2022-11-14 13:45:22.022185] [info] UPDATE produtos SET status='2' WHERE id='4'
+[2022-11-14 13:45:22.055721] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:45:22.085021] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:45:32.367455] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:45:32.373414] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:01.068198] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:01.097229] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:18.126204] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:18.133577] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:23.782250] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 13:46:23.810996] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:39.551177] [info] SELECT * FROM produtos WHERE id = 2
+[2022-11-14 13:46:39.556461] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:43.517318] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:43.532355] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:44.674762] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:44.681822] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:49.555054] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:51.111963] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:51.119371] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:52.145531] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:55.529211] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:46:55.559437] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:46:58.139235] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:00.642360] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:47:00.650093] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:52.190143] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:47:52.194968] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:54.962645] [info] SELECT * FROM usuarios WHERE id = 4
+[2022-11-14 13:47:54.977627] [info] UPDATE usuarios SET status='2' WHERE id='4'
+[2022-11-14 13:47:54.994719] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:47:55.009545] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:56.530654] [info] SELECT * FROM usuarios WHERE id = 4
+[2022-11-14 13:47:56.535247] [info] UPDATE usuarios SET status='1' WHERE id='4'
+[2022-11-14 13:47:56.560911] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:47:56.565013] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:58.860537] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:47:58.868220] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:48:01.668677] [info] SELECT * FROM usuarios WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:48:01.693713] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:48:11.369863] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:48:25.101782] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:48:25.129323] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:48:25.133690] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:48:25.138780] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:48:25.142941] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:49:04.994940] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:49:04.999679] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:05.006500] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:49:05.011570] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:49:05.015414] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:49:17.460232] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:18.872970] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:49:18.888073] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:36.979295] [info] SELECT * FROM produtos WHERE id > 0 AND deletado is Null  ORDER BY status ASC, nome ASC
+[2022-11-14 13:49:36.994117] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:38.404547] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:39.656641] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:49:39.687483] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:39.691169] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:49:39.695755] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:49:39.699472] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:49:45.692233] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:49:45.697516] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:49:45.701244] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:49:45.709007] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:49:45.713219] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:50:24.424501] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:50:24.430147] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:50:24.433967] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:50:24.441853] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:50:24.445753] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:50:34.579525] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:50:34.584686] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:50:34.591886] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:50:34.596513] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:50:34.599853] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:51:05.655636] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:51:05.661012] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:51:05.664856] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:51:05.669409] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:51:05.675241] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:51:30.313174] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:51:30.318423] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:51:30.327750] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:51:30.331856] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:51:30.335666] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:51:49.168446] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:51:49.193903] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:51:49.197463] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:51:49.202091] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:51:49.206639] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:52:01.542865] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:52:01.569942] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:52:01.580568] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:52:01.584770] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:52:01.591557] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:52:16.110187] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:52:16.115289] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:52:16.119077] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:52:16.133236] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:52:16.136893] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:52:27.633810] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:52:27.640394] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:52:27.645858] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:52:27.649605] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:52:27.653404] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:52:38.434660] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:52:38.439917] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:52:38.445451] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:52:38.448991] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:52:38.452771] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:53:05.028443] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:53:05.056689] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:53:05.063021] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:53:05.068419] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:53:05.072666] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:53:20.897658] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:53:20.902425] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:53:20.906147] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:53:20.914406] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:53:20.918092] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:53:37.534708] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:53:37.549423] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:53:37.552741] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:53:37.557121] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:53:37.563328] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:53:56.883486] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:53:56.897900] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:53:56.901218] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:53:56.905957] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:53:56.912559] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:54:04.584322] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:54:04.613542] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:54:04.618419] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:54:04.623312] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:54:04.627816] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:54:22.186184] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:54:22.191071] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:54:22.198359] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:54:22.203495] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:54:22.207829] [info] SELECT * FROM produtos WHERE id = '6'
+[2022-11-14 13:55:58.442531] [info] SELECT * FROM estoque WHERE id > 0 AND deletado is Null AND quantidade > 0  ORDER BY status ASC, produto ASC
+[2022-11-14 13:55:58.453399] [info] SELECT * FROM usuarios WHERE id = 1
+[2022-11-14 13:55:58.457179] [info] SELECT * FROM produtos WHERE id = '2'
+[2022-11-14 13:55:58.462194] [info] SELECT * FROM produtos WHERE id = '5'
+[2022-11-14 13:55:58.468694] [info] SELECT * FROM produtos WHERE id = '6'
